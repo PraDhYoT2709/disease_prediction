@@ -1,4 +1,4 @@
-# Disease Prediction and Medical Recommendation System 🩺
+# Disease Prediction and Medical Recommendation System 
 
 This repository contains the implementation of a Disease Prediction and Medical Recommendation System developed for the CS 584 Machine Learning course.
 
@@ -18,15 +18,11 @@ The project files are organized into the following directories:
 - `Training.csv`: Dataset for training machine learning models.
 - `workout_df.csv`: Recommended workouts for diseases.
 
-### 2. model
+### 2. model used
 - `RandomForest.pkl`: Trained Random Forest model for disease prediction.
 
-## How to Run the Project
-To run the Disease Prediction and Medical Recommendation System:
 
-**Install required Python libraries:**
-   ```bash
-   pip install pandas scikit-learn flask ast numpy fuzzywuzzy pickle
+
 
 
 
