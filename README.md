@@ -1,1 +1,1 @@
-# disease_prediction
+# disease_prediction and medicine recommendation
